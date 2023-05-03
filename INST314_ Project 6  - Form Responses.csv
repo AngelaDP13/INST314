@@ -1,0 +1,11 @@
+difference_denying_scale,difference_removing_scale,difference_honoring_scale,most_impactful,mother,age,gender,occupation
+2,1,8,Difference-honoring,No,21,Female,Student
+2,3,10,Difference-honoring,No,20,Female,Barista
+2,1,9,Difference-honoring,No,21,Female,Barista
+8,3,10,Difference-honoring,Yes,43,Female,Teacher
+8,1,10,Difference-honoring,Yes,35,Female,Educator 
+2,5,8,Difference-honoring,No,19,,Front House
+2,3,8,Difference-honoring,No,21,Male,Manager
+2,1,9,Difference-honoring,No,21,Female,Student
+3,2,8,Difference-honoring,No,20,Male,Student
+2,1,10,Difference-honoring,No,22,Female,Cashier
